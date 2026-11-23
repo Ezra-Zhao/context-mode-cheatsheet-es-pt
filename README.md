@@ -1,5 +1,7 @@
 # 🧠 Context Mode Cheatsheet · Guía rápida / Guia rápido
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 One page to install and use [Context Mode](https://github.com/mksglu/context-mode) (27k+ ⭐, the MCP server + hooks that keep raw tool output out of your context window): plugin install, the 11 `ctx_*` tools, sandbox + FTS5 knowledge base, session continuity across compactions, routing on 17 platforms. Commands and figures verified 2026-10-12 against the upstream README and BENCHMARK.md.
 
 **Full cheatsheets, one per language (written natively, not translated):**
